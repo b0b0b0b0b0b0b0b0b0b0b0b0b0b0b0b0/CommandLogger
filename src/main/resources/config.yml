@@ -1,0 +1,7 @@
+excluded-commands:
+  - /login
+  - /register
+  - /l
+  - /reg
+
+log-flush-cooldown: 10

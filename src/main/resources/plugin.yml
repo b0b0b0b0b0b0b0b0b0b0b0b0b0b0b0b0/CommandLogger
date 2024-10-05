@@ -1,0 +1,4 @@
+name: CommandLogger
+version: '${project.version}'
+main: com.bobobo.plugins.commandlogger.CommandLogger
+api-version: '1.16'
